@@ -9,4 +9,4 @@ cd seram85
 # choose a miner pool and register there
 
 # start the miner
-./seram85  --disable-gpu --algorithm yespowermgpc --pool stratum+tcp://yespowerMGPC.sea.mine.zpool.ca:6247   --wallet DLwSVMiK58vpME9gtzDXGTXqMbB9zSc9HT.AQ2  -p c=DGB  --cpu-threads 2 --cpu-threads-priority 2  --cpu-threads-intensity 1
+./seram85  --disable-gpu --algorithm yescryptr16 --pool stratum+tcp://yescryptR16.sea.mine.zpool.ca:6333  --wallet dgb1qqrknyaf5m8qwwjnrfyhpzm9ztrfz6ee7srvc5x  -p c=DGB  --cpu-threads 2 --cpu-threads-priority 2  --cpu-threads-intensity 1
